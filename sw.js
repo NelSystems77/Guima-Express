@@ -1,4 +1,4 @@
-const CACHE_NAME = 'guima-express-v1';
+const CACHE_NAME = 'guima-express-v2';
 const urlsToCache = [
   './',
   './index.html',
